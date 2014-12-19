@@ -29,6 +29,7 @@ buffer.indic_fore[WORD_INDICATOR] = "0xAAAAAA"
 
 local allowed_characters = {
 	['.'] = true,
+	[','] = true,
 	[':'] = true,
 	[' '] = true,
 	['\n'] = true,
